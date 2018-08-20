@@ -1,0 +1,14 @@
+
+.navbar .navbar-brand {
+  color: rgb(15, 81, 119);
+  font-size: 1rem;
+}
+
+.navbar .navbar-expand-lg .navbar-dark .bg-primary {
+  color: rgb(15, 81, 119);
+}
+
+.jumbotron {
+  background-image: url('../img/croppedsewing.jpg');
+  background-size: cover;
+}
