@@ -1,11 +1,36 @@
 
-.navbar .navbar-brand {
-  color: rgb(15, 81, 119);
-  font-size: 1rem;
+/*this is the nav background color */
+.navbar {
+    background-color: rgb(15, 81, 119); !important;
 }
 
-.navbar .navbar-expand-lg .navbar-dark .bg-primary {
-  color: rgb(15, 81, 119);
+/*this is the nav link font color */
+.nav-item {
+    color: white; !important;
+}
+
+/*this is the nav brand font color */
+.navbar-brand{
+  color: white;
+}
+
+/*this is the register now button color */
+.btn-left {
+    background-color: rgb(15, 81, 119); !important;
+}
+
+/*this is the speakers button color */
+.btn-right {
+    background-color: white; !important;
+}
+
+.badge {
+    background-color: #B2B4CB; !important;
+}
+
+
+.btn-signup {
+    background-color: #B2B4CB; !important;
 }
 
 .jumbotron {
