@@ -17,11 +17,13 @@
 /*this is the register now button color */
 .btn-left {
     background-color: rgb(15, 81, 119); !important;
+    color: white;
 }
 
 /*this is the speakers button color */
 .btn-right {
     background-color: white; !important;
+    color: black;
 }
 
 .badge {
