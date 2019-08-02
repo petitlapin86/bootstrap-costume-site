@@ -22,7 +22,7 @@
 
 /*this is the speakers button color */
 .btn-right {
-    background-color: white; !important;
+    background-image: url('../img/linen.jpg');
     color: black;
 }
 
@@ -33,6 +33,11 @@
 
 .btn-signup {
     background-color: #B2B4CB; !important;
+}
+
+.btn-register {
+  background-color: rgb(15, 81, 119); !important;
+  color: white;
 }
 
 .jumbotron {
