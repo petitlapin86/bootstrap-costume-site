@@ -22,7 +22,7 @@
 
 /*this is the speakers button color */
 .btn-right {
-    background-image: url('../img/linen.jpg');
+    border-color: rgb(15, 81, 119); !important;
     color: black;
 }
 
